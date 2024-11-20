@@ -11,7 +11,7 @@ export default function Home() {
   }
   )
 
-  const handleResize = (e) => {
+  const handleResize = () => {
     const reference=cusorRef.current
     console.log({ reference }, { e })
     if (!!reference) {
