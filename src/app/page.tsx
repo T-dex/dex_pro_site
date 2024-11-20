@@ -27,7 +27,7 @@ export default function Home() {
       <div className="grid grid-cols-6 gap-4 min-h-full">
 
         <div className="border-2 h-full"></div>
-        <div className="border-2 col-span-4 h-full"></div>
+        <div className="border-2 col-span-4 h-full"><h1>Building in Process</h1></div>
         <div className="border-2 h-full"></div>
       </div>
       
